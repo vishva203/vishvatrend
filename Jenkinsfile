@@ -1,4 +1,4 @@
-pipeline {                                    // 1  // Defines the start of the Jenkins pipeline block
+pipeline {                                    // 1  // Defines the start of the Jenkins pipeline blockk
 
     agent any                                 // Specifies the pipeline can run on any available agent
 
